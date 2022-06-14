@@ -1,0 +1,18 @@
+.container-fluid {
+    width: 100%;
+    height: 100%;
+}
+.side{
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    justify-content: flex-start;
+    padding: 25px;
+}
+.bottomDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
